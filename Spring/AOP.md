@@ -10,13 +10,13 @@ AOP란 간단하게 말해서 관점지향 프로그래밍입니다.<br>
 @Pointcut : 상세스펙정의(특정 패키지나 클래스 혹은 메소드 등)
 Advice : 부가기능을 담은 구현체 - 어떤 기능을 언제 넣을 것인지<br>
 Target : aspect를 적용하는 곳<br>
-Joinpoint : advice의 적용위치<br><Br>
+Joinpoint : advice의 적용위치<br>
   
-@Before : Advice 타겟 메소드가 호출되기 전에 Advice 기능 수행
-@After : 타겟 메소드의 결과에 관게없이 타겟 메소드가 완료되면 Advice 기능 수행
-@AfterRunning : 타겟 메소드가 성공적으로 결과값을 반환 한 후에 Advice 기능 수행
-@AfterThrowing : 타겟 메소드가 수행 중 예외를 던지면 Advice 기능 수행
-@Around : Advice가 타겟 메소드를 감싸 타겟 메소드 호출 전, 후에 Adivce 기능 수행 
+@Before : Advice 타겟 메소드가 호출되기 전에 Advice 기능 수행<br>
+@After : 타겟 메소드의 결과에 관게없이 타겟 메소드가 완료되면 Advice 기능 수행<br>
+@AfterRunning : 타겟 메소드가 성공적으로 결과값을 반환 한 후에 Advice 기능 수행<br>
+@AfterThrowing : 타겟 메소드가 수행 중 예외를 던지면 Advice 기능 수행<br>
+@Around : Advice가 타겟 메소드를 감싸 타겟 메소드 호출 전, 후에 Adivce 기능 수행 <br>
   
   
 </div>
