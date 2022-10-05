@@ -1,6 +1,6 @@
 ## 자바 가변 객체 vs 불변 객체
 
-<details>
+<details> 
 <summary>가변 객체 vs 불변 객체</summary>
 <div markdown="1">
 Mutable 객체는 변경 가능한 객체이고 Immutable 객체는 불변 객체입니다.<br>
