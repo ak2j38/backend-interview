@@ -1,7 +1,7 @@
-## TCP와 UDP 비교 정리
+## 주소창에 Google을 치면 발생하는 일 정리
 
 <details>
-<summary> TCP와 UDP를 비교하여 설명해주세요.</summary>
+<summary> 주소창에 Google을 치면 발생하는 일.</summary>
 <div markdown="1">
   <br>
 1. 유저가 브라우저에서 www.google.com(URL)을 입력을 하면 HTTP request message를 생성합니다.<br>
