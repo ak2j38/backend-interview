@@ -3,7 +3,7 @@
 <details>
 <summary>Java 8</summary>
 <div markdown="1">
-자바8에서는 여러 가지 변화들이 추가되었습니다. `Lambda 표현식`, `Stream API`, `Joda-Time을 이용한 새로운 날짜와 시간 API`, `StringJoiner` 등이 추가되었고 람다와 스트림을 통해 함수형 프로그래밍을 자바에서도 어느정도 사용할 수 있게 되었습니다.<br>
+자바8에서는 여러 가지 변화들이 추가되었습니다. `Lambda 표현식`, `Stream API`, `Joda-Time을 이용한 새로운 날짜와 시간 API`, `StringJoiner` 등이 추가되었고 람다와 스트림을 통해 함수형 프로그래밍을 자바에서도 어느정도 사용할 수 있게 되었습니다.<br> 
 Lambda와 Stream을 통해 자바에서도 함수형 프로그래밍을 어느 정도 적용할 수 있게 되었고 Joda-time을 이용해 LocalDateTime등 새로운 API등이 등장했습니다.<br>
 또한 StringJoiner을 통해 편리하게 문자열을 연결할 수 있게 되었습니다.<br><br>
   
