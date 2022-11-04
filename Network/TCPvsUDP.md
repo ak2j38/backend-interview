@@ -17,7 +17,7 @@ TCP는 신뢰성이 중요한 통신(HTTP, File 전송 등)에 쓰이고, UDP는
 TCP/IP는 인터넷에서 사용하는 프로토콜 그룹을 칭합니다. TCP/IP는 Application Layer(응용 계층), Transport layer(전송 계층), Network layer, Data link layer, Physical layer로 5개의 계층으로 나뉩니다.<br>
 그 중에 전송계층은 두 응용계층 사이에서의 process to process 통신을 제공합니다. 전송계층은 응용계층으로부터 메시지를 받아 전송계층 패킷으로 캡슐화하여 전송합니다. (segment 또는 datagram으로 부릅니다.)<br>
 전송계층의 주된 프로토콜은 TCP, UDP입니다. TCP는 연결형, 신뢰성, 전송 프로토콜입니다. TCP로 전송하는 패킷을 segment라고 부릅니다. UDP(User Datagram Protocol)는 비연결형, 비신뢰성 전송 프로토콜입니다. UDP로 전송하는 패킷을 Datagram이라고 합니다.
-</div>
+</div> 
 </details>
 
 <details>
